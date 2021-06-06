@@ -1,0 +1,1 @@
+{"name":"Local: hexadecimal_to_decimal","url":"/home/yogesh/cmpt130/conversions/hexadecimal_to_decimal.cpp","tests":[{"id":1622985269211,"input":"1CF","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/yogesh/cmpt130/conversions/hexadecimal_to_decimal.cpp","group":"local","local":true}
