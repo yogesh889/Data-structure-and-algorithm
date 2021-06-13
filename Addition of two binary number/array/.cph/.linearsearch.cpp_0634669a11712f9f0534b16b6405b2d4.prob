@@ -1,0 +1,1 @@
+{"name":"Local: linearsearch","url":"/home/yogesh/cmpt130/Addition of two binary number/array/linearsearch.cpp","tests":[{"id":1623584213212,"input":"5\n34 54 11 34 65\n655","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/yogesh/cmpt130/Addition of two binary number/array/linearsearch.cpp","group":"local","local":true}
