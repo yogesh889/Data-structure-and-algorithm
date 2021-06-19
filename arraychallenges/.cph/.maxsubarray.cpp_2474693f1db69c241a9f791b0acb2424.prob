@@ -1,0 +1,1 @@
+{"name":"Local: maxsubarray","url":"/home/yogesh/cmpt130/arraychallenges/maxsubarray.cpp","tests":[{"id":1624134988497,"input":"5\n1 -4 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/yogesh/cmpt130/arraychallenges/maxsubarray.cpp","group":"local","local":true}
