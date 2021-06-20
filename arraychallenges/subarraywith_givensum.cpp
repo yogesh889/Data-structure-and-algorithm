@@ -1,3 +1,7 @@
+// Given an unsorted array A of size N of non-negative integer, find a continous subarray which
+// adds to give number s.
+
+
 #include "bits/stdc++.h"
 using namespace std;
 

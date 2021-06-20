@@ -1,3 +1,6 @@
+// you are give an arr[] of N integers including 0. The task is to find the smallest positive 
+// number missing from the array.
+
 #include "bits/stdc++.h"
 using namespace std;
 
@@ -13,7 +16,7 @@ int main(){
     const int N = 1e6 + 2;
     bool check[N];
     for(int i=0; i<n; i++){
-        check[i] = 0;
+        check[i] = false;
     }
     for(int i=0; i<n; i++){
         if(a[i]>0){

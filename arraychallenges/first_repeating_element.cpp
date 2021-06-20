@@ -1,3 +1,10 @@
+// que:
+// Given and arr[] of size N. The task is to find the first repeating element in the array 
+// of the integers i.e. and element that occurs more then once and whose index of first 
+// occurence is smallest.
+
+
+
 #include "bits/stdc++.h"
 using namespace std;
 
