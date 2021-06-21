@@ -1,0 +1,1 @@
+{"name":"Local: largest_word","url":"/home/yogesh/cmpt130/largest_word.cpp","tests":[{"id":1624302754741,"input":"10\ndo or die","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/yogesh/cmpt130/largest_word.cpp","group":"local","local":true}
