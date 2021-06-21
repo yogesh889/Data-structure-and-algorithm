@@ -1,4 +1,4 @@
-PROBLEM: given an arr[] of size n. output sum of each subarray of the given array.
+// PROBLEM: given an arr[] of size n. output sum of each subarray of the given array.
 
 #include "bits/stdc++.h"
 

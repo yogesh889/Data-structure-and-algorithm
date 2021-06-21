@@ -4,16 +4,16 @@
 
 
 
-#include<iostream>
+#include "bits/stdc++.h"
 using namespace std;
 
 int main(){
-    int mx= -19999999;
+    int mx= INT_MIN;
     int n;
     cin>>n;
 
     int a[n];
-    for(int i=1; i<n; i++){
+    for(int i=0; i<n; i++){
         cin>>a[i];
     }
 
