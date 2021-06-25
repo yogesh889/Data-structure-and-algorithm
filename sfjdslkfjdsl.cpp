@@ -1,7 +1,0 @@
-dsjf;lkdjsf sdlfj sd;ljf l;dksjf 
-_USE_DECLSPECS_FOR_SALdsaf
-__cpp_aggregate_nsdmifsd
-falseasdf
-__DBL_HAS_QUIET_NAN__gds
-alignassdg
-stdfsd
